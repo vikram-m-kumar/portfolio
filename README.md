@@ -2,6 +2,6 @@
 - 👀 I’m interested in data analysis, machine learning, and software testing.
 - 🌱 I’m currently learning Excel, SQL, Python, and basics of statistics.
 - 💞️ I’m looking to collaborate on data-related projects, Python-based applications, and software testing.
-- 📫 How to reach me: You can reach me via email at [mattevikramkumar@gmail.com] or connect with me on [LinkedIn]([https://www.linkedin.com/in/vikram-kumar-matte-637822154/]).
+- 📫 How to reach me: You can reach me via email at [mattevikramkumar@gmail.com] or connect with me on [https://www.linkedin.com/in/vikram-kumar-matte-637822154/].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have 2 years of experience in manual testing and love working on Data Analysis projects in my free time!
