@@ -6,3 +6,14 @@
 * 📫 How to reach me: You can reach me via email at [mattevikramkumar@gmail.com] or connect with me on [https://www.linkedin.com/in/vikram-kumar-matte-637822154/].  
 * ⚡ Fun fact: I have 2 years of experience in manual testing and love working on Data Analysis projects in my free time!
 
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikram--kumar--matte--637822154-blue)](https://www.linkedin.com/in/vikram-kumar-matte-637822154/)
+[![GitHub](https://img.shields.io/badge/GitHub-vikramkumar-black)](https://github.com/vikram-m-kumar)
+
+### Languages and Tools:
+[![Power BI](https://img.shields.io/badge/Power_BI-#F2C811.svg?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
