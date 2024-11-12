@@ -7,7 +7,7 @@
 * ⚡ Fun fact: I have 2 years of experience in manual testing and love working on Data Analysis projects in my free time!
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikram--kumar--matte--637822154-blue)](https://www.linkedin.com/in/vikram-kumar-matte-637822154/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/vikram-kumar-matte-637822154/)
 
 ### Languages and Tools:
 [![Power BI](https://img.shields.io/badge/Power_BI-#F2C811.svg?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
