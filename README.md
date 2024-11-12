@@ -8,7 +8,6 @@
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vikram--kumar--matte--637822154-blue)](https://www.linkedin.com/in/vikram-kumar-matte-637822154/)
-[![GitHub](https://img.shields.io/badge/GitHub-vikramkumar-black)](https://github.com/vikram-m-kumar)
 
 ### Languages and Tools:
 [![Power BI](https://img.shields.io/badge/Power_BI-#F2C811.svg?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
